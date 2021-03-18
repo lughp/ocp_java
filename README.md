@@ -1,1 +1,1 @@
-# ocp_java
+# Java exceptions
